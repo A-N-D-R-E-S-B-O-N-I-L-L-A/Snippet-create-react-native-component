@@ -32,7 +32,7 @@ To use this snippet you will need to follow the steps below:
 
 4. then you will get a kind of search bar where you will type the following: Configure user snippets. and then press enter.
 
-5. after hitting enter you should get options like ````javascriptreact.json``` or `````typescriptreact.json```, then click on the one you prefer, this will depend if you work react with typescript or with javascript. 
+5. after hitting enter you should get options like ````javascriptreact.json``` or ```typescriptreact.json```, then click on the one you prefer, this will depend if you work react with typescript or with javascript. 
 
 6. after you click on it, an object will appear with a comment where you will paste the code you copied.
 
