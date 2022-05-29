@@ -36,6 +36,6 @@ To use this snippet you will need to follow the steps below:
 
 6. after you click on it, an object will appear with a comment where you will paste the code you copied.
 
-7. once copied save the file and this will be enough, remember that the ````"prefix"```` is the prefix of what you will call your snippet, in this case I call it ````rnafc```.
+7. once copied save the file and this will be enough, remember that the ````"prefix"```` is the prefix of what you will call your snippet, in this case I call it ```rnafc```.
 
 8. ready that's all remember that to use it just put ```rnafc``` or the prefix you put in the file and hit enter to complete the code. if it doesn't work close the VScode and reopen it. 
