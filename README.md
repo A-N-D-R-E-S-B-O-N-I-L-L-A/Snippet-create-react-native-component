@@ -4,25 +4,26 @@ To use this snippet you will need to follow the steps below:
 
 1. copy the following code:
 
-``` "React Native Component": {
-		"prefix": "rnafc",
-		"body": [
-			"import React from 'react'",
-			"import { StyleSheet, Text, View } from 'react-native'",
-			"",
-			"export const $1 = () => {",
-			"  return (",
-			"    <View>",
-			"        <Text>$1 is working</Text>",
-			"    </View>",
-			"  )",
-			"}",
-			"",
-			"const styles = StyleSheet.create({",
-			"",
-			"});"
+``` 
+"React Native Component": {
+	"prefix": "rnafc", // name of the snippet
+	"body": [
+		 "import React from 'react'",
+		 "import { StyleSheet, Text, View } from 'react-native'",
+		 "",
+		 "export const $1 = () => {",
+		 "  return (",
+		 "    <View>",
+		 "        <Text>$1 is working</Text>",
+		 "    </View>",
+		 "  )",
+		 "}",
+		 "",
+		 "const styles = StyleSheet.create({",
+		 "",
+		 "});"
 		]
-	} 
+} 
 ```
 
 2. go to the top left in the visual estudio code and there click on View
