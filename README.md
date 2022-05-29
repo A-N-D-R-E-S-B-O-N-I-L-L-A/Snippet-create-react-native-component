@@ -38,4 +38,7 @@ To use this snippet you will need to follow the steps below:
 
 7. once copied save the file and this will be enough, remember that the ````"prefix"```` is the prefix of what you will call your snippet, in this case I call it ```rnafc```.
 
-8. ready that's all remember that to use it just put ```rnafc``` or the prefix you put in the file and hit enter to complete the code. if it doesn't work close the VScode and reopen it. 
+8. ready that's all remember that to use it just put ```rnafc``` or the prefix you put in the file and hit enter to complete the code. if it doesn't work close the VScode and reopen it.
+
+9. And last but not least, good luck
+
